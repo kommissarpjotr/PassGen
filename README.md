@@ -23,6 +23,6 @@ It is meant to be as easy as possible.
     5) Now you can run the command "passgen" from any directory and any terminal.
 
 - If you are using Windows :
-	1) Open command prompt either by searching it or by pressing " Win + R " and typing "cmd" in the pop-up that appears and hitting enter.
+	1) Open command prompt either by searching for it or by pressing " Win + R " and typing "cmd" in the pop-up that appears and hitting enter.
 	2) Navigate to the script's location 
 	3) Run the script by typing " python PassGen.py "
