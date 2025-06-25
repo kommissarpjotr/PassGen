@@ -1,7 +1,7 @@
 # PassGen
-Two simple python scripts for generating secure passwords.
+- Two simple python scripts for generating secure passwords :
 	1) A CLI verison for quick access.
- 	2) A GUI version vor more customizeability and functionality.
+	2) A GUI version for more customizeability and functionality.
 
 ### Prerequisites:
 Make sure you have python3 installed.
